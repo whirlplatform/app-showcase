@@ -74,8 +74,300 @@
           </locales>
         </property>
       </properties>
+      <children>
+        <component id="AF0DD76D-E6B3-49E4-87ED-27B071C8EE6B" name="Main container" type="SimpleContainerBuilder">
+          <properties>
+            <property name="LayoutData:Location" type="STRING" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="STRING"><![CDATA[Center]]></value>
+              </locales>
+            </property>
+            <property name="LayoutData:Height" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">1.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:VerticalAlign" type="STRING" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="STRING"><![CDATA[Middle]]></value>
+              </locales>
+            </property>
+            <property name="Enabled" type="BOOLEAN" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="BOOLEAN">true</value>
+              </locales>
+            </property>
+            <property name="LayoutData:MarginRight" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">3.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:Width" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">1.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:MarginLeft" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">3.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:MarginTop" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">3.0</value>
+              </locales>
+            </property>
+            <property name="Height" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">1.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:HorizontalAlign" type="STRING" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="STRING"><![CDATA[Center]]></value>
+              </locales>
+            </property>
+            <property name="LayoutData:MarginBottom" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">3.0</value>
+              </locales>
+            </property>
+            <property name="Width" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">1.0</value>
+              </locales>
+            </property>
+          </properties>
+        </component>
+        <component id="FFC4BD98-4183-450A-9F0A-F156B46A1425" name="Menu" type="VerticalContainerBuilder">
+          <properties>
+            <property name="LayoutData:Split" type="BOOLEAN" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="BOOLEAN">true</value>
+              </locales>
+            </property>
+            <property name="LayoutData:Location" type="STRING" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="STRING"><![CDATA[West]]></value>
+              </locales>
+            </property>
+            <property name="LayoutData:Height" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">1.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:VerticalAlign" type="STRING" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="STRING"><![CDATA[Middle]]></value>
+              </locales>
+            </property>
+            <property name="LayoutData:MarginRight" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">3.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:Width" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">1.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:MarginLeft" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">3.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:MarginTop" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">3.0</value>
+              </locales>
+            </property>
+            <property name="LayoutData:HorizontalAlign" type="STRING" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="STRING"><![CDATA[Center]]></value>
+              </locales>
+            </property>
+            <property name="LayoutData:MarginBottom" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">3.0</value>
+              </locales>
+            </property>
+            <property name="Enabled" type="BOOLEAN" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="BOOLEAN">true</value>
+              </locales>
+            </property>
+            <property name="LayoutData:Size" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">180.0</value>
+              </locales>
+            </property>
+            <property name="Height" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">1.0</value>
+              </locales>
+            </property>
+            <property name="Width" type="NUMBER" replace="false">
+              <defaultLocale locale="en"/>
+              <locales>
+                <value locale="en" type="NUMBER">1.0</value>
+              </locales>
+            </property>
+          </properties>
+          <children>
+            <component id="877DC505-E34F-4565-AC05-634562D9C756" name="Buttons" type="ButtonBuilder">
+              <properties>
+                <property name="LayoutData:VerticalAlign" type="STRING" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="STRING"><![CDATA[Middle]]></value>
+                  </locales>
+                </property>
+                <property name="Enabled" type="BOOLEAN" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="BOOLEAN">true</value>
+                  </locales>
+                </property>
+                <property name="LayoutData:MarginRight" type="NUMBER" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="NUMBER">3.0</value>
+                  </locales>
+                </property>
+                <property name="LayoutData:Width" type="NUMBER" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="NUMBER">1.0</value>
+                  </locales>
+                </property>
+                <property name="Html" type="STRING" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="STRING"><![CDATA[Buttons]]></value>
+                  </locales>
+                </property>
+                <property name="LayoutData:MarginLeft" type="NUMBER" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="NUMBER">3.0</value>
+                  </locales>
+                </property>
+                <property name="LayoutData:MarginTop" type="NUMBER" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="NUMBER">3.0</value>
+                  </locales>
+                </property>
+                <property name="LayoutData:Index" type="NUMBER" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="NUMBER">0.0</value>
+                  </locales>
+                </property>
+                <property name="LayoutData:HorizontalAlign" type="STRING" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="STRING"><![CDATA[Center]]></value>
+                  </locales>
+                </property>
+                <property name="LayoutData:MarginBottom" type="NUMBER" replace="false">
+                  <defaultLocale locale="en"/>
+                  <locales>
+                    <value locale="en" type="NUMBER">3.0</value>
+                  </locales>
+                </property>
+              </properties>
+            </component>
+          </children>
+        </component>
+      </children>
     </component>
   </components>
+  <freeComponents>
+    <component id="4C0AEA0F-FA1B-4CA4-86CE-AF366DF35292" name="Buttons" type="VerticalContainerBuilder">
+      <properties>
+        <property name="LayoutData:Height" type="NUMBER" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="NUMBER">1.0</value>
+          </locales>
+        </property>
+        <property name="Enabled" type="BOOLEAN" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="BOOLEAN">true</value>
+          </locales>
+        </property>
+        <property name="LayoutData:MarginRight" type="NUMBER" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="NUMBER">3.0</value>
+          </locales>
+        </property>
+        <property name="LayoutData:Width" type="NUMBER" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="NUMBER">1.0</value>
+          </locales>
+        </property>
+        <property name="LayoutData:MarginLeft" type="NUMBER" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="NUMBER">3.0</value>
+          </locales>
+        </property>
+        <property name="LayoutData:MarginTop" type="NUMBER" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="NUMBER">3.0</value>
+          </locales>
+        </property>
+        <property name="Height" type="NUMBER" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="NUMBER">1.0</value>
+          </locales>
+        </property>
+        <property name="LayoutData:MarginBottom" type="NUMBER" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="NUMBER">3.0</value>
+          </locales>
+        </property>
+        <property name="Width" type="NUMBER" replace="false">
+          <defaultLocale locale="en"/>
+          <locales>
+            <value locale="en" type="NUMBER">1.0</value>
+          </locales>
+        </property>
+      </properties>
+    </component>
+  </freeComponents>
   <datasources/>
   <groups/>
   <rights>
