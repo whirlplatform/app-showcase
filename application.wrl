@@ -303,7 +303,7 @@
                 </property>
               </properties>
               <events>
-                <event id="5E7348F7-D892-46C1-BFB7-710AD172EBF4" name="Новое событие 0" type="Database">
+                <event id="5E7348F7-D892-46C1-BFB7-710AD172EBF4" name="Новое событие 0" type="DatabaseFunction">
                   <properties>
                     <schema></schema>
                     <function></function>
